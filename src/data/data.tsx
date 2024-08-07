@@ -333,7 +333,7 @@ export const contact: ContactSection = {
     {
       type: ContactType.Instagram,
       text: '@_SametDlgr',
-      href: 'https://www.instagram.com/_SametDlgr/',
+      href: 'https://www.instagram.com/',
     },
     {
       type: ContactType.Github,
@@ -350,6 +350,6 @@ export const socialLinks: Social[] = [
   {label: 'Github', Icon: GithubIcon, href: 'https://github.com/SametDulger'},
   {label: 'Stack Overflow', Icon: StackOverflowIcon, href: 'https://stackoverflow.com/users/20867568/sametdulger'},
   {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/sametdulger/'},
-  {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/_SametDlgr/'},
+  {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/'},
   {label: 'Twitter', Icon: TwitterIcon, href: 'https://twitter.com/_SametDlgr'},
 ];
