@@ -332,7 +332,7 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Instagram,
-      text: '@_SametDlgr',
+      text: 'Deactivated',
       href: 'https://www.instagram.com/',
     },
     {
