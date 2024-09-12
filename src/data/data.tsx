@@ -283,7 +283,7 @@ export const experience: TimelineItem[] = [
   {
     date: 'Sep 2024 - ...',
     location: 'PRP Business Solutions',
-    title: 'System Monitoring Specialist (RPA)',
+    title: 'System Monitoring Specialist - RPA',
     content: <p></p>,
   },
   {
