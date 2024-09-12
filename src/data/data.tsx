@@ -289,7 +289,7 @@ export const experience: TimelineItem[] = [
   {
     date: 'July 2023 - May 2024',
     location: 'Tailormade Information Systems',
-    title: 'Jr. Software Developer',
+    title: 'Jr. Software Developer - .NET',
     content: <p></p>,
   },
 ];
