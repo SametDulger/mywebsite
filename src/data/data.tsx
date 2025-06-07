@@ -281,7 +281,7 @@ export const education: TimelineItem[] = [
 
 export const experience: TimelineItem[] = [
   {
-    date: 'Sep 2024 - ...',
+    date: 'Sep 2024 - Oct 2024',
     location: 'PRP Business Solutions',
     title: 'System Monitoring Specialist',
     content: <p></p>,
